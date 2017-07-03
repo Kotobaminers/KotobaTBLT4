@@ -1,0 +1,6 @@
+name: KotobaTBLT4
+version: 0.0.1
+main: com.github.orgs.kotobaminers.kotobatblt4.system.KotobaTBLT4
+
+commands:
+  tblt:
