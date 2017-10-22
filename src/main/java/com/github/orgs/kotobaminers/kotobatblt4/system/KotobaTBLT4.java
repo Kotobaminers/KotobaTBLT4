@@ -1,3 +1,4 @@
+
 package com.github.orgs.kotobaminers.kotobatblt4.system;
 
 import org.bukkit.plugin.PluginManager;
@@ -11,6 +12,7 @@ import com.github.orgs.kotobaminers.kotobatblt4.userinterface.GUIListener;
 
 public class KotobaTBLT4 extends JavaPlugin {
 
+	//New Device Git Test
 
 	@Override
 	public void onEnable() {
